@@ -62,14 +62,6 @@ Currently, I’m focused on:
 
 *(More projects coming — actively updating this space)*
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishaan558&theme=dark&hide_border=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rishaan558&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishaan558&theme=dark&hide_border=true&layout=compact)
-
----
 
 ## 📬 Let’s Connect
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishaan2501@gmail.com)
